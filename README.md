@@ -1,4 +1,4 @@
-# 🐸 The Frog Wants to Fly
+#  The Frog Wants to Fly
 ### A Story of Finding Your Own Talent
 
 ![The Frog Wants to Fly Cover](The-Frog-Wants-to-Fly-cover.png)
